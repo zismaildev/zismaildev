@@ -72,12 +72,12 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/zismaildev"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://discord.com/users/zismail"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://www.facebook.com/xz1smail"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://www.instagram.com/xz1smail"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.twitch.tv/zismail"><img src="https://skillicons.dev/icons?i=twitch" /></a>
-  <a href="https://www.youtube.com/@zismaildev"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+  <a href="https://discord.com/users/zismail" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+  <a href="https://www.facebook.com/xz1smail" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+  <a href="https://www.github.com/zismaildev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="http://www.instagram.com/xz1smail" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="https://www.youtube.com/@zismaildev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
+  <a href="https://www.twitch.tv/zismail" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
 
 ---
@@ -86,6 +86,9 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/ZismailDev" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" height="60" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
   </a>
 </p>
+
+
+
