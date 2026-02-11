@@ -42,7 +42,7 @@ const nattapong = {
 
 - 🌐 **Web Development**: Building modern, responsive web applications with Next.js and React
 - 🎮 **Game Servers**: Creating and maintaining FiveM game server solutions
-- 💾 **Database Design**: Architecting efficient MongoDB and MySQL databases
+- 💾 **Database Design**: Architecting efficient Supabase MongoDB and MySQL databases
 - 🎨 **UI/UX**: Crafting clean, intuitive interfaces with TailwindCSS
 - 🔐 **API Development**: Designing secure and scalable REST APIs
 
